@@ -4,6 +4,7 @@
     View,
     Text,
     StyleSheet,
+    
 } from 'react-native'; 
  
  export default function Balance({saldo, gastos}) {
